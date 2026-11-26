@@ -60,7 +60,7 @@ The following enterprise network monitoring and hosted packet intelligence platf
 
 ## 💻 Top Open-Source Network Monitoring & Packet Sniffing Tools
 
-The following open-source packet sniffers, intrusion detection engines, terminal monitors, and flow collectors are ranked by **GitHub Stars_Count (Descending)**. Every project includes its live social Stars_Badge linking directly to its stargazers page.
+The following open-source packet sniffers, intrusion detection engines, terminal monitors, and flow collectors are ranked by **GitHub_Stars_Count (Descending)**. Every project includes its live social Stars_Badge linking directly to its stargazers page.
 
 | Repository | GitHub_Stars | Core Domain | Description |
 | :--- | :---: | :--- | :--- |
